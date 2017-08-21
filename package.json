@@ -1,0 +1,24 @@
+{
+  "name": "sqkmcalculator",
+  "version": "1.0.0",
+  "description": "A basic calculator created to make calculations and get the m2 and km2 from a bounding box",
+  "main": "index.js",
+  "scripts": {
+				"start": "node index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/juhunuque/sqkmCalculator.git"
+  },
+  "author": "Julio Nunez Q",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/juhunuque/sqkmCalculator/issues"
+  },
+		"dependencies": {
+				"@turf/turf": "^4.3.1",
+				"easy-converter": "^0.5.1"
+		},
+  "homepage": "https://github.com/juhunuque/sqkmCalculator#readme"
+}
