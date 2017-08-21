@@ -17,7 +17,7 @@ $ npm install
 * There is a folder called /input, there will be a json file where we are going to put all the feature that we
 		want to evaluate
 
-		An example of that file would be:
+* An example of that file would be:
 
 ```json
 [
